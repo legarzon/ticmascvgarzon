@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400);
+
+ form{
+  max-width: 600px;
+}
+
+form input, form textarea{
+  margin-bottom: 0px;
+  font-family: "Roboto", sans-serif;
+  width: 100%;
+  padding: 10px;
+  resize: none; 
+} 
+
+.the_box {
+border: 5px;
+border-color: burlywood;
+
+}
+
